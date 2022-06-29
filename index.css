@@ -87,12 +87,14 @@
 	row-gap: 6px;
 }
 
-.contact div{
+.contact div a{
 	display: flex;
 	flex-direction: row;
 	column-gap: 6px;
 	width: 100%;
 	align-items: center;
+	text-decoration: none;
+	color: black;
 }
 
 .bottom {
